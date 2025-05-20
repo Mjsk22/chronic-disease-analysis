@@ -28,6 +28,4 @@ The analysis followed these main steps:
 
 ## How to Run the Analysis
 1. Clone the repository.
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
+2. Run The Notebook.
