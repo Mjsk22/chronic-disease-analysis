@@ -29,3 +29,8 @@ The analysis followed these main steps:
 ## How to Run the Analysis
 1. Clone the repository.
 2. Run The Notebook.
+
+## dependences (Python Libraries used)
+- Pandas 
+- Numpay
+- Matplotlib
