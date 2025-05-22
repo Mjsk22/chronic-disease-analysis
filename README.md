@@ -23,7 +23,7 @@ The analysis followed these main steps:
 
 ## Key Insights
 - Certain states display higher average chronic disease prevalence.
-- National trends over time reveal [mention specific trends observed].
+- National trends over time reveal a downward trend.
 - Analysis by topic showed significant variations, indicating potential focus areas for public health interventions.
 
 ## How to Run the Analysis
